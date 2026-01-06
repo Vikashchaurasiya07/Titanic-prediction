@@ -150,8 +150,8 @@ weighted avg       0.82      0.82      0.82       179
 > Example screenshots:
 
 ```
-<img width="476" height="390" alt="image" src="https://github.com/user-attachments/assets/23646a2e-636e-4905-b2c5-5827f6746cfb" />
-<img width="590" height="390" alt="image" src="https://github.com/user-attachments/assets/88bc5137-d729-47b8-bfd2-9905b3685192" />
+E:\machine_learning\Titanic_Prediction\confussion_matrix.png
+E:\machine_learning\Titanic_Prediction\output.png
 
 
 ```
