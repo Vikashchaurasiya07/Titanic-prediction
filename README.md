@@ -21,7 +21,7 @@ This project predicts whether a passenger survived the Titanic disaster using **
 
 ---
 
-## 📝 Project Overview
+# 📝 Project Overview
 The goal of this project is to predict survival for Titanic passengers. The workflow includes:
 
 1. Data cleaning and preprocessing  
@@ -33,7 +33,7 @@ The goal of this project is to predict survival for Titanic passengers. The work
 
 ---
 
-## 📊 Dataset
+# 📊 Dataset
 Dataset: `Titanic-Dataset.csv`  
 
 Key features:
@@ -57,7 +57,7 @@ Key features:
 
 ---
 
-## ⚙️ Installation
+# ⚙️ Installation
 Clone this repository and install dependencies:
 
 ```bash
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+# 🚀 Usage
 
 ### 1️⃣ Using the saved model in Python
 
@@ -102,7 +102,7 @@ python titanic_prediction.py
 
 ---
 
-## 🧠 Model
+# 🧠 Model
 
 * **Algorithm**: Logistic Regression
 * **Solver**: saga
@@ -113,7 +113,7 @@ Model saved as: `titanic_logistic_model.pkl`
 
 ---
 
-## 📈 Evaluation
+# 📈 Evaluation
 
 The model was evaluated using:
 
@@ -141,7 +141,7 @@ weighted avg       0.82      0.82      0.82       173
 
 ---
 
-## 📊 Visualizations
+# 📊 Visualizations
 
 * Confusion Matrix heatmap
 * Actual vs Predicted counts bar chart
@@ -155,7 +155,7 @@ weighted avg       0.82      0.82      0.82       173
 
 ---
 
-## 🛠️ Technologies
+# 🛠️ Technologies
 
 * Python 3.x
 * pandas, numpy
@@ -165,7 +165,7 @@ weighted avg       0.82      0.82      0.82       173
 
 ---
 
-## 📂 Files
+# 📂 Files
 
 | File                       | Description                                                   |
 | -------------------------- | ------------------------------------------------------------- |
@@ -176,7 +176,7 @@ weighted avg       0.82      0.82      0.82       173
 
 ---
 
-## 📄 License
+# 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
