@@ -1,4 +1,4 @@
-Perfect! Since you have a **Titanic ML project** with a **logistic regression model saved as a `.pkl` file** and a **Python script to run predictions**, here’s a clean, professional **README.md** tailored for your project:
+
 
 ````markdown
 # Titanic Survival Prediction
