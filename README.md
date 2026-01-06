@@ -1,4 +1,3 @@
-````markdown
 # 🚢 Titanic Survival Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
