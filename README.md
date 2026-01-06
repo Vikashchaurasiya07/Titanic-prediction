@@ -63,7 +63,7 @@ Clone this repository and install dependencies:
 ```bash
 git clone https://github.com/Vikashchaurasiya07/Titanic-prediction.git
 cd Titanic-prediction
-pip install -r requirements.txt
+run the file titanic_prediction.py
 ````
 
 ---
@@ -124,19 +124,20 @@ The model was evaluated using:
 Example output:
 
 ```
-Accuracy: 0.82
+Accuracy: 0.8156424581005587
 Confusion Matrix:
-[[90 15]
- [18 50]]
+ [[88 17]
+ [16 58]]
 Classification Report:
-              precision    recall  f1-score   support
+               precision    recall  f1-score   support
 
-           0       0.83      0.86      0.85       105
-           1       0.77      0.74      0.75        68
+           0       0.85      0.84      0.84       105
+           1       0.77      0.78      0.78        74
 
-    accuracy                           0.82       173
-   macro avg       0.80      0.80      0.80       173
-weighted avg       0.82      0.82      0.82       173
+    accuracy                           0.82       179
+   macro avg       0.81      0.81      0.81       179
+weighted avg       0.82      0.82      0.82       179
+
 ```
 
 ---
@@ -148,9 +149,10 @@ weighted avg       0.82      0.82      0.82       173
 
 > Example screenshots:
 
-```
-![Confusion Matrix](screenshots/confusion_matrix.png)
-![Predicted vs Actual](screenshots/predicted_vs_actual.png)
+```<img width="476" height="390" alt="image" src="https://github.com/user-attachments/assets/23646a2e-636e-4905-b2c5-5827f6746cfb" />
+<img width="590" height="390" alt="image" src="https://github.com/user-attachments/assets/88bc5137-d729-47b8-bfd2-9905b3685192" />
+
+
 ```
 
 ---
