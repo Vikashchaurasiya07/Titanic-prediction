@@ -147,14 +147,13 @@ weighted avg       0.82      0.82      0.82       179
 * Confusion Matrix heatmap
 * Actual vs Predicted counts bar chart
 
-> Example screenshots:
+> screenshots:
 
-```
+
 E:\machine_learning\Titanic_Prediction\confussion_matrix.png
 E:\machine_learning\Titanic_Prediction\output.png
 
 
-```
 
 ---
 
