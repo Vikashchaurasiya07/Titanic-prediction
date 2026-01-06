@@ -150,8 +150,9 @@ weighted avg       0.82      0.82      0.82       179
 > screenshots:
 
 
-E:\machine_learning\Titanic_Prediction\confussion_matrix.png
-E:\machine_learning\Titanic_Prediction\output.png
+<img width="476" height="390" alt="confussion_matrix" src="https://github.com/user-attachments/assets/ddb5d183-2fba-4e16-b31c-207ad79bc466" />
+
+<img width="590" height="390" alt="output" src="https://github.com/user-attachments/assets/a74c268c-817b-4b8a-a739-24da10bb440d" />
 
 
 
